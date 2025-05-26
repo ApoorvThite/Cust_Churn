@@ -1,0 +1,7 @@
+polars
+pycaret
+gradio
+pandas
+scikit-learn
+shap
+openai
