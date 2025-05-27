@@ -95,3 +95,28 @@ Visit: http://127.0.0.1:7860 (or similar) to use the app.
 * Users give feedback if the prediction was accurate or not (future improvement area).
 
 * The pipeline is built with modularity in mind, allowing future enhancements such as SHAP explainability or GPT-based explanation.
+
+-----------------------------------------------------------
+📈 Model Performance
+
+Metric	Top Model (AdaBoost Classifier)
+Accuracy	80.78%
+AUC	0.8484
+Recall	55.58%
+F1 Score	0.6062
+
+-------------------------------------------------------------
+
+💡 Real-World Use Case
+Telco companies and subscription-based businesses lose revenue due to customer churn. This tool enables early identification of high-risk customers so that companies can take timely retention actions — like offering personalized deals or service upgrades — to retain them.
+
+---------------------------------------------------------------
+
+🙌 Acknowledgements
+* PyCaret for the low-code ML pipelines
+
+* Gradio for rapid UI deployment
+
+* Polars for high-performance DataFrame processing
+
+* Dataset inspired by IBM Telco Churn Dataset
