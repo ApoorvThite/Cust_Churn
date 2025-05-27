@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Predictor
+# Customer Churn Predictor
 
 A machine learning-powered web application that predicts whether a customer is likely to churn, based on their profile and service usage. Built with PyCaret, Gradio, and Polars, this tool helps businesses make informed decisions to retain customers more effectively.
 
