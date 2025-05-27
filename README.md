@@ -23,7 +23,7 @@ This project takes a real-world Telco customer dataset, cleans and analyzes it, 
 
 ## 📁 Project Structure
 
-
+```bash
 ChurnPredictor/
 ├── app/
 │ └── gradio_ui.py # Gradio web UI for interacting with the model
@@ -44,4 +44,5 @@ ChurnPredictor/
 ├── requirements.txt # Dependencies
 ├── .gitignore # Ignored files and directories
 └── README.md # You are here!
+```
 
