@@ -46,3 +46,52 @@ ChurnPredictor/
 └── README.md # You are here!
 ```
 
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ApoorvThite/Cust_Churn.git
+cd Cust_Churn
+
+# Create and Activate the Virtual Environment
+python3.10 -m venv churn-pycaret-310
+source churn-pycaret-310/bin/activate
+
+# Install Dependencies
+pip install -r requirements.txt
+```
+----------------------------------------------------
+
+Step 1: Clean Data & Train Model
+```
+python main.py
+```
+This will:
+
+Clean the Telco dataset
+
+Save the cleaned CSV
+
+Train and compare models using PyCaret
+
+Save the best model in models/churn_model.pkl
+--------------------------------------------------------
+
+Step 2: Launch the Gradio App
+```
+python app/gradio_ui.py
+```
+
+Visit: http://127.0.0.1:7860 (or similar) to use the app.
+
+--------------------------------------------------------
+
+🧠 How It Works
+* Users input customer attributes (gender, tenure, contract type, etc.).
+
+* The model predicts the likelihood of churn.
+
+* Users give feedback if the prediction was accurate or not (future improvement area).
+
+* The pipeline is built with modularity in mind, allowing future enhancements such as SHAP explainability or GPT-based explanation.
