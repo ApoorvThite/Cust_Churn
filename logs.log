@@ -1,0 +1,1564 @@
+2025-05-26 21:34:46,162:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:34:46,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:34:46,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:34:46,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:37:12,317:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:37:12,318:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:37:12,318:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:37:12,318:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:39:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:39:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:39:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:39:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:40:47,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:40:47,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:40:47,097:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:40:47,097:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:43:51,661:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:43:51,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:43:51,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:43:51,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:22,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:22,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:22,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:22,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:37,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:37,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:37,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:44:37,026:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:47:10,200:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:47:10,200:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:47:10,200:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:47:10,200:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:48:29,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:48:29,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:48:29,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:48:29,496:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:48:30,292:INFO:PyCaret ClassificationExperiment
+2025-05-26 21:48:30,292:INFO:Logging name: clf-default-name
+2025-05-26 21:48:30,292:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-05-26 21:48:30,292:INFO:version 3.3.2
+2025-05-26 21:48:30,292:INFO:Initializing setup()
+2025-05-26 21:48:30,292:INFO:self.USI: 1bcb
+2025-05-26 21:48:30,292:INFO:self._variable_keys: {'idx', 'seed', 'y', 'n_jobs_param', '_available_plots', 'pipeline', 'gpu_n_jobs_param', 'html_param', 'X_test', 'X', 'target_param', 'exp_id', 'gpu_param', 'fold_shuffle_param', 'fold_groups_param', '_ml_usecase', 'logging_param', 'y_train', 'fix_imbalance', 'data', 'X_train', 'is_multiclass', 'fold_generator', 'y_test', 'memory', 'USI', 'exp_name_log', 'log_plots_param'}
+2025-05-26 21:48:30,292:INFO:Checking environment
+2025-05-26 21:48:30,292:INFO:python_version: 3.10.17
+2025-05-26 21:48:30,292:INFO:python_build: ('main', 'Apr  8 2025 12:10:59')
+2025-05-26 21:48:30,292:INFO:machine: arm64
+2025-05-26 21:48:30,327:INFO:platform: macOS-15.1.1-arm64-arm-64bit
+2025-05-26 21:48:30,327:INFO:Memory: svmem(total=8589934592, available=1348599808, percent=84.3, used=3080732672, free=68419584, active=1297629184, inactive=1165541376, wired=1783103488)
+2025-05-26 21:48:30,327:INFO:Physical Core: 8
+2025-05-26 21:48:30,327:INFO:Logical Core: 8
+2025-05-26 21:48:30,327:INFO:Checking libraries
+2025-05-26 21:48:30,327:INFO:System:
+2025-05-26 21:48:30,327:INFO:    python: 3.10.17 (main, Apr  8 2025, 12:10:59) [Clang 17.0.0 (clang-1700.0.13.3)]
+2025-05-26 21:48:30,327:INFO:executable: /Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/bin/python
+2025-05-26 21:48:30,328:INFO:   machine: macOS-15.1.1-arm64-arm-64bit
+2025-05-26 21:48:30,328:INFO:PyCaret required dependencies:
+2025-05-26 21:49:45,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:45,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:45,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:45,402:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:46,237:INFO:PyCaret ClassificationExperiment
+2025-05-26 21:49:46,237:INFO:Logging name: clf-default-name
+2025-05-26 21:49:46,237:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-05-26 21:49:46,238:INFO:version 3.3.2
+2025-05-26 21:49:46,238:INFO:Initializing setup()
+2025-05-26 21:49:46,238:INFO:self.USI: 843b
+2025-05-26 21:49:46,238:INFO:self._variable_keys: {'target_param', 'memory', 'X_train', '_available_plots', 'exp_name_log', 'seed', 'fix_imbalance', 'html_param', 'idx', 'logging_param', 'is_multiclass', 'y_train', 'y_test', 'gpu_param', 'fold_groups_param', 'fold_shuffle_param', 'n_jobs_param', 'log_plots_param', 'data', 'y', '_ml_usecase', 'X_test', 'X', 'USI', 'gpu_n_jobs_param', 'fold_generator', 'exp_id', 'pipeline'}
+2025-05-26 21:49:46,238:INFO:Checking environment
+2025-05-26 21:49:46,238:INFO:python_version: 3.10.17
+2025-05-26 21:49:46,238:INFO:python_build: ('main', 'Apr  8 2025 12:10:59')
+2025-05-26 21:49:46,238:INFO:machine: arm64
+2025-05-26 21:49:46,273:INFO:platform: macOS-15.1.1-arm64-arm-64bit
+2025-05-26 21:49:46,273:INFO:Memory: svmem(total=8589934592, available=1352744960, percent=84.3, used=3098345472, free=62373888, active=1303576576, inactive=1196621824, wired=1794768896)
+2025-05-26 21:49:46,273:INFO:Physical Core: 8
+2025-05-26 21:49:46,273:INFO:Logical Core: 8
+2025-05-26 21:49:46,273:INFO:Checking libraries
+2025-05-26 21:49:46,273:INFO:System:
+2025-05-26 21:49:46,273:INFO:    python: 3.10.17 (main, Apr  8 2025, 12:10:59) [Clang 17.0.0 (clang-1700.0.13.3)]
+2025-05-26 21:49:46,273:INFO:executable: /Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/bin/python
+2025-05-26 21:49:46,273:INFO:   machine: macOS-15.1.1-arm64-arm-64bit
+2025-05-26 21:49:46,273:INFO:PyCaret required dependencies:
+2025-05-26 21:49:46,709:INFO:                 pip: 25.1.1
+2025-05-26 21:49:46,709:INFO:          setuptools: 80.7.1
+2025-05-26 21:49:46,709:INFO:             pycaret: 3.3.2
+2025-05-26 21:49:46,709:INFO:             IPython: 8.36.0
+2025-05-26 21:49:46,710:INFO:          ipywidgets: 8.1.7
+2025-05-26 21:49:46,710:INFO:                tqdm: 4.67.1
+2025-05-26 21:49:46,710:INFO:               numpy: 1.26.4
+2025-05-26 21:49:46,710:INFO:              pandas: 2.1.4
+2025-05-26 21:49:46,710:INFO:              jinja2: 3.1.6
+2025-05-26 21:49:46,710:INFO:               scipy: 1.11.4
+2025-05-26 21:49:46,710:INFO:              joblib: 1.3.2
+2025-05-26 21:49:46,710:INFO:             sklearn: 1.4.2
+2025-05-26 21:49:46,710:INFO:                pyod: 2.0.5
+2025-05-26 21:49:46,710:INFO:            imblearn: 0.13.0
+2025-05-26 21:49:46,710:INFO:   category_encoders: 2.7.0
+2025-05-26 21:49:46,710:INFO:            lightgbm: 4.6.0
+2025-05-26 21:49:46,710:INFO:               numba: 0.61.2
+2025-05-26 21:49:46,710:INFO:            requests: 2.32.3
+2025-05-26 21:49:46,710:INFO:          matplotlib: 3.7.5
+2025-05-26 21:49:46,710:INFO:          scikitplot: 0.3.7
+2025-05-26 21:49:46,710:INFO:         yellowbrick: 1.5
+2025-05-26 21:49:46,710:INFO:              plotly: 5.24.1
+2025-05-26 21:49:46,710:INFO:    plotly-resampler: Not installed
+2025-05-26 21:49:46,710:INFO:             kaleido: 0.2.1
+2025-05-26 21:49:46,710:INFO:           schemdraw: 0.15
+2025-05-26 21:49:46,710:INFO:         statsmodels: 0.14.4
+2025-05-26 21:49:46,710:INFO:              sktime: 0.26.0
+2025-05-26 21:49:46,710:INFO:               tbats: 1.1.3
+2025-05-26 21:49:46,710:INFO:            pmdarima: 2.0.4
+2025-05-26 21:49:46,710:INFO:              psutil: 7.0.0
+2025-05-26 21:49:46,710:INFO:          markupsafe: 3.0.2
+2025-05-26 21:49:46,710:INFO:             pickle5: Not installed
+2025-05-26 21:49:46,710:INFO:         cloudpickle: 3.1.1
+2025-05-26 21:49:46,710:INFO:         deprecation: 2.1.0
+2025-05-26 21:49:46,710:INFO:              xxhash: 3.5.0
+2025-05-26 21:49:46,710:INFO:           wurlitzer: 3.1.1
+2025-05-26 21:49:46,710:INFO:PyCaret optional dependencies:
+2025-05-26 21:49:51,198:INFO:                shap: Not installed
+2025-05-26 21:49:51,198:INFO:           interpret: Not installed
+2025-05-26 21:49:51,198:INFO:                umap: Not installed
+2025-05-26 21:49:51,198:INFO:     ydata_profiling: Not installed
+2025-05-26 21:49:51,198:INFO:  explainerdashboard: Not installed
+2025-05-26 21:49:51,198:INFO:             autoviz: Not installed
+2025-05-26 21:49:51,198:INFO:           fairlearn: Not installed
+2025-05-26 21:49:51,198:INFO:          deepchecks: Not installed
+2025-05-26 21:49:51,198:INFO:             xgboost: Not installed
+2025-05-26 21:49:51,198:INFO:            catboost: Not installed
+2025-05-26 21:49:51,198:INFO:              kmodes: Not installed
+2025-05-26 21:49:51,198:INFO:             mlxtend: Not installed
+2025-05-26 21:49:51,198:INFO:       statsforecast: Not installed
+2025-05-26 21:49:51,198:INFO:        tune_sklearn: Not installed
+2025-05-26 21:49:51,198:INFO:                 ray: Not installed
+2025-05-26 21:49:51,198:INFO:            hyperopt: Not installed
+2025-05-26 21:49:51,198:INFO:              optuna: Not installed
+2025-05-26 21:49:51,198:INFO:               skopt: Not installed
+2025-05-26 21:49:51,198:INFO:              mlflow: Not installed
+2025-05-26 21:49:51,198:INFO:              gradio: 5.31.0
+2025-05-26 21:49:51,198:INFO:             fastapi: 0.115.12
+2025-05-26 21:49:51,198:INFO:             uvicorn: 0.34.2
+2025-05-26 21:49:51,198:INFO:              m2cgen: Not installed
+2025-05-26 21:49:51,198:INFO:           evidently: Not installed
+2025-05-26 21:49:51,198:INFO:               fugue: Not installed
+2025-05-26 21:49:51,198:INFO:           streamlit: Not installed
+2025-05-26 21:49:51,198:INFO:             prophet: Not installed
+2025-05-26 21:49:51,198:INFO:None
+2025-05-26 21:49:51,198:INFO:Set up GPU usage.
+2025-05-26 21:49:51,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,198:WARNING:cuML is outdated or not found. Required version is >=23.08.
+                Please visit https://rapids.ai/install for installation instructions.
+2025-05-26 21:49:51,198:INFO:Set up data.
+2025-05-26 21:49:51,211:INFO:Set up folding strategy.
+2025-05-26 21:49:51,211:INFO:Set up train/test split.
+2025-05-26 21:49:51,221:INFO:Set up index.
+2025-05-26 21:49:51,222:INFO:Assigning column types.
+2025-05-26 21:49:51,229:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2025-05-26 21:49:51,229:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,257:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,257:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,259:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,277:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,280:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,339:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,377:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,378:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,409:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,410:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,425:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,427:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,428:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,432:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,432:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2025-05-26 21:49:51,432:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,461:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,461:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,462:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,462:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,479:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,480:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,483:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,483:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,513:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2025-05-26 21:49:51,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,528:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,531:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,531:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,534:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,534:INFO:Engine successfully changes for model 'rbfsvm' to 'sklearn'.
+2025-05-26 21:49:51,535:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,578:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,581:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,584:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,585:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,613:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,628:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,632:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,634:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,637:INFO:Preparing preprocessing pipeline...
+2025-05-26 21:49:51,641:INFO:Set up simple imputation.
+2025-05-26 21:49:51,643:INFO:Set up column name cleaning.
+2025-05-26 21:49:51,674:INFO:Finished creating preprocessing pipeline.
+2025-05-26 21:49:51,678:INFO:Pipeline: Pipeline(memory=FastMemory(location=/var/folders/84/1x9rxtvj1jxf68pqwqm084mm0000gn/T/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'In...
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=[],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+')))],
+         verbose=False)
+2025-05-26 21:49:51,679:INFO:Creating final display dataframe.
+2025-05-26 21:49:51,778:INFO:Setup _display_container:                     Description             Value
+0                    Session id                42
+1                        Target             Churn
+2                   Target type            Binary
+3           Original data shape        (7032, 42)
+4        Transformed data shape        (7032, 42)
+5   Transformed train set shape        (4922, 42)
+6    Transformed test set shape        (2110, 42)
+7              Numeric features                41
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12               Fold Generator   StratifiedKFold
+13                  Fold Number                10
+14                     CPU Jobs                -1
+15                      Use GPU              True
+16               Log Experiment             False
+17              Experiment Name  clf-default-name
+18                          USI              843b
+2025-05-26 21:49:51,780:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,809:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,809:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,809:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,827:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,830:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,830:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,859:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,859:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,859:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,873:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,876:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:49:51,877:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,880:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2025-05-26 21:49:51,880:INFO:setup() successfully completed in 5.64s...............
+2025-05-26 21:49:51,881:INFO:Initializing compare_models()
+2025-05-26 21:49:51,881:INFO:compare_models(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, include=None, fold=None, round=4, cross_validation=True, sort=Accuracy, n_select=1, budget_time=None, turbo=True, errors=ignore, fit_kwargs=None, groups=None, experiment_custom_tags=None, probability_threshold=None, verbose=True, parallel=None, caller_params={'self': <pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, 'include': None, 'exclude': None, 'fold': None, 'round': 4, 'cross_validation': True, 'sort': 'Accuracy', 'n_select': 1, 'budget_time': None, 'turbo': True, 'errors': 'ignore', 'fit_kwargs': None, 'groups': None, 'experiment_custom_tags': None, 'probability_threshold': None, 'engine': None, 'verbose': True, 'parallel': None, '__class__': <class 'pycaret.classification.oop.ClassificationExperiment'>}, exclude=None)
+2025-05-26 21:49:51,881:INFO:Checking exceptions
+2025-05-26 21:49:51,887:INFO:Preparing display monitor
+2025-05-26 21:49:52,072:INFO:Initializing Logistic Regression
+2025-05-26 21:49:52,072:INFO:Total runtime is 3.715356190999349e-06 minutes
+2025-05-26 21:49:52,072:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:49:52,072:INFO:Initializing create_model()
+2025-05-26 21:49:52,072:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=lr, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:49:52,072:INFO:Checking exceptions
+2025-05-26 21:49:52,072:INFO:Importing libraries
+2025-05-26 21:49:52,072:INFO:Copying training dataset
+2025-05-26 21:49:52,083:INFO:Defining folds
+2025-05-26 21:49:52,083:INFO:Declaring metric variables
+2025-05-26 21:49:52,083:INFO:Importing untrained model
+2025-05-26 21:49:52,083:INFO:Logistic Regression Imported successfully
+2025-05-26 21:49:52,083:INFO:Starting cross validation
+2025-05-26 21:49:52,085:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:49:53,027:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:53,813:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:54,552:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:55,540:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:56,378:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:57,349:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:58,099:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:58,952:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:49:59,741:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:50:01,530:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-05-26 21:50:01,551:INFO:Calculating mean and std
+2025-05-26 21:50:01,552:INFO:Creating metrics dataframe
+2025-05-26 21:50:01,554:INFO:Uploading results into container
+2025-05-26 21:50:01,555:INFO:Uploading model into container now
+2025-05-26 21:50:01,556:INFO:_master_model_container: 1
+2025-05-26 21:50:01,556:INFO:_display_container: 2
+2025-05-26 21:50:01,556:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=42, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2025-05-26 21:50:01,556:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:01,680:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:01,681:INFO:Creating metrics dataframe
+2025-05-26 21:50:01,683:INFO:Initializing K Neighbors Classifier
+2025-05-26 21:50:01,683:INFO:Total runtime is 0.1601878643035889 minutes
+2025-05-26 21:50:01,683:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:01,683:INFO:Initializing create_model()
+2025-05-26 21:50:01,683:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=knn, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:01,683:INFO:Checking exceptions
+2025-05-26 21:50:01,683:INFO:Importing libraries
+2025-05-26 21:50:01,683:INFO:Copying training dataset
+2025-05-26 21:50:01,695:INFO:Defining folds
+2025-05-26 21:50:01,695:INFO:Declaring metric variables
+2025-05-26 21:50:01,695:INFO:Importing untrained model
+2025-05-26 21:50:01,695:INFO:K Neighbors Classifier Imported successfully
+2025-05-26 21:50:01,695:INFO:Starting cross validation
+2025-05-26 21:50:01,696:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:03,071:INFO:Calculating mean and std
+2025-05-26 21:50:03,071:INFO:Creating metrics dataframe
+2025-05-26 21:50:03,073:INFO:Uploading results into container
+2025-05-26 21:50:03,073:INFO:Uploading model into container now
+2025-05-26 21:50:03,074:INFO:_master_model_container: 2
+2025-05-26 21:50:03,074:INFO:_display_container: 2
+2025-05-26 21:50:03,074:INFO:KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')
+2025-05-26 21:50:03,074:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:03,179:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:03,180:INFO:Creating metrics dataframe
+2025-05-26 21:50:03,183:INFO:Initializing Naive Bayes
+2025-05-26 21:50:03,183:INFO:Total runtime is 0.1851897994677226 minutes
+2025-05-26 21:50:03,183:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:03,183:INFO:Initializing create_model()
+2025-05-26 21:50:03,183:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=nb, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:03,183:INFO:Checking exceptions
+2025-05-26 21:50:03,184:INFO:Importing libraries
+2025-05-26 21:50:03,184:INFO:Copying training dataset
+2025-05-26 21:50:03,199:INFO:Defining folds
+2025-05-26 21:50:03,199:INFO:Declaring metric variables
+2025-05-26 21:50:03,200:INFO:Importing untrained model
+2025-05-26 21:50:03,200:INFO:Naive Bayes Imported successfully
+2025-05-26 21:50:03,200:INFO:Starting cross validation
+2025-05-26 21:50:03,201:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:03,504:INFO:Calculating mean and std
+2025-05-26 21:50:03,505:INFO:Creating metrics dataframe
+2025-05-26 21:50:03,507:INFO:Uploading results into container
+2025-05-26 21:50:03,507:INFO:Uploading model into container now
+2025-05-26 21:50:03,507:INFO:_master_model_container: 3
+2025-05-26 21:50:03,507:INFO:_display_container: 2
+2025-05-26 21:50:03,507:INFO:GaussianNB(priors=None, var_smoothing=1e-09)
+2025-05-26 21:50:03,507:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:03,582:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:03,582:INFO:Creating metrics dataframe
+2025-05-26 21:50:03,585:INFO:Initializing Decision Tree Classifier
+2025-05-26 21:50:03,585:INFO:Total runtime is 0.19189749956130983 minutes
+2025-05-26 21:50:03,586:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:03,586:INFO:Initializing create_model()
+2025-05-26 21:50:03,586:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=dt, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:03,586:INFO:Checking exceptions
+2025-05-26 21:50:03,586:INFO:Importing libraries
+2025-05-26 21:50:03,586:INFO:Copying training dataset
+2025-05-26 21:50:03,596:INFO:Defining folds
+2025-05-26 21:50:03,596:INFO:Declaring metric variables
+2025-05-26 21:50:03,596:INFO:Importing untrained model
+2025-05-26 21:50:03,597:INFO:Decision Tree Classifier Imported successfully
+2025-05-26 21:50:03,597:INFO:Starting cross validation
+2025-05-26 21:50:03,597:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:04,118:INFO:Calculating mean and std
+2025-05-26 21:50:04,118:INFO:Creating metrics dataframe
+2025-05-26 21:50:04,119:INFO:Uploading results into container
+2025-05-26 21:50:04,120:INFO:Uploading model into container now
+2025-05-26 21:50:04,120:INFO:_master_model_container: 4
+2025-05-26 21:50:04,120:INFO:_display_container: 2
+2025-05-26 21:50:04,120:INFO:DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=None, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_samples_leaf=1,
+                       min_samples_split=2, min_weight_fraction_leaf=0.0,
+                       monotonic_cst=None, random_state=42, splitter='best')
+2025-05-26 21:50:04,120:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:04,180:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:04,180:INFO:Creating metrics dataframe
+2025-05-26 21:50:04,182:INFO:Initializing SVM - Linear Kernel
+2025-05-26 21:50:04,182:INFO:Total runtime is 0.20183624823888144 minutes
+2025-05-26 21:50:04,182:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:04,182:INFO:Initializing create_model()
+2025-05-26 21:50:04,182:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=svm, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:04,182:INFO:Checking exceptions
+2025-05-26 21:50:04,182:INFO:Importing libraries
+2025-05-26 21:50:04,182:INFO:Copying training dataset
+2025-05-26 21:50:04,191:INFO:Defining folds
+2025-05-26 21:50:04,191:INFO:Declaring metric variables
+2025-05-26 21:50:04,191:INFO:Importing untrained model
+2025-05-26 21:50:04,191:INFO:SVM - Linear Kernel Imported successfully
+2025-05-26 21:50:04,191:INFO:Starting cross validation
+2025-05-26 21:50:04,192:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:05,036:INFO:Calculating mean and std
+2025-05-26 21:50:05,037:INFO:Creating metrics dataframe
+2025-05-26 21:50:05,038:INFO:Uploading results into container
+2025-05-26 21:50:05,039:INFO:Uploading model into container now
+2025-05-26 21:50:05,039:INFO:_master_model_container: 5
+2025-05-26 21:50:05,039:INFO:_display_container: 2
+2025-05-26 21:50:05,039:INFO:SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+              early_stopping=False, epsilon=0.1, eta0=0.001, fit_intercept=True,
+              l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+              max_iter=1000, n_iter_no_change=5, n_jobs=-1, penalty='l2',
+              power_t=0.5, random_state=42, shuffle=True, tol=0.001,
+              validation_fraction=0.1, verbose=0, warm_start=False)
+2025-05-26 21:50:05,040:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:05,117:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:05,117:INFO:Creating metrics dataframe
+2025-05-26 21:50:05,119:INFO:Initializing Ridge Classifier
+2025-05-26 21:50:05,119:INFO:Total runtime is 0.21745559771855674 minutes
+2025-05-26 21:50:05,119:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:05,119:INFO:Initializing create_model()
+2025-05-26 21:50:05,119:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=ridge, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:05,119:INFO:Checking exceptions
+2025-05-26 21:50:05,119:INFO:Importing libraries
+2025-05-26 21:50:05,119:INFO:Copying training dataset
+2025-05-26 21:50:05,128:INFO:Defining folds
+2025-05-26 21:50:05,128:INFO:Declaring metric variables
+2025-05-26 21:50:05,128:INFO:Importing untrained model
+2025-05-26 21:50:05,128:INFO:Ridge Classifier Imported successfully
+2025-05-26 21:50:05,128:INFO:Starting cross validation
+2025-05-26 21:50:05,129:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:05,157:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.75692e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,183:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.74475e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,218:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.7546e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,246:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.71639e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,278:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.74128e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,308:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.76023e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,352:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.7343e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,382:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.7433e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,413:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.70121e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,457:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/linear_model/_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=2.73727e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2025-05-26 21:50:05,473:INFO:Calculating mean and std
+2025-05-26 21:50:05,473:INFO:Creating metrics dataframe
+2025-05-26 21:50:05,474:INFO:Uploading results into container
+2025-05-26 21:50:05,475:INFO:Uploading model into container now
+2025-05-26 21:50:05,475:INFO:_master_model_container: 6
+2025-05-26 21:50:05,475:INFO:_display_container: 2
+2025-05-26 21:50:05,475:INFO:RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001)
+2025-05-26 21:50:05,475:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:05,549:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:05,549:INFO:Creating metrics dataframe
+2025-05-26 21:50:05,551:INFO:Initializing Random Forest Classifier
+2025-05-26 21:50:05,551:INFO:Total runtime is 0.22466178337732953 minutes
+2025-05-26 21:50:05,551:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:05,552:INFO:Initializing create_model()
+2025-05-26 21:50:05,552:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=rf, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:05,552:INFO:Checking exceptions
+2025-05-26 21:50:05,552:INFO:Importing libraries
+2025-05-26 21:50:05,552:INFO:Copying training dataset
+2025-05-26 21:50:05,565:INFO:Defining folds
+2025-05-26 21:50:05,565:INFO:Declaring metric variables
+2025-05-26 21:50:05,565:INFO:Importing untrained model
+2025-05-26 21:50:05,565:INFO:Random Forest Classifier Imported successfully
+2025-05-26 21:50:05,565:INFO:Starting cross validation
+2025-05-26 21:50:05,566:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:08,543:INFO:Calculating mean and std
+2025-05-26 21:50:08,544:INFO:Creating metrics dataframe
+2025-05-26 21:50:08,546:INFO:Uploading results into container
+2025-05-26 21:50:08,547:INFO:Uploading model into container now
+2025-05-26 21:50:08,547:INFO:_master_model_container: 7
+2025-05-26 21:50:08,547:INFO:_display_container: 2
+2025-05-26 21:50:08,548:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='sqrt',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_samples_leaf=1,
+                       min_samples_split=2, min_weight_fraction_leaf=0.0,
+                       monotonic_cst=None, n_estimators=100, n_jobs=-1,
+                       oob_score=False, random_state=42, verbose=0,
+                       warm_start=False)
+2025-05-26 21:50:08,548:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:08,697:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:08,697:INFO:Creating metrics dataframe
+2025-05-26 21:50:08,699:INFO:Initializing Quadratic Discriminant Analysis
+2025-05-26 21:50:08,699:INFO:Total runtime is 0.27711971600850427 minutes
+2025-05-26 21:50:08,699:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:08,699:INFO:Initializing create_model()
+2025-05-26 21:50:08,699:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=qda, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:08,699:INFO:Checking exceptions
+2025-05-26 21:50:08,699:INFO:Importing libraries
+2025-05-26 21:50:08,699:INFO:Copying training dataset
+2025-05-26 21:50:08,709:INFO:Defining folds
+2025-05-26 21:50:08,709:INFO:Declaring metric variables
+2025-05-26 21:50:08,710:INFO:Importing untrained model
+2025-05-26 21:50:08,710:INFO:Quadratic Discriminant Analysis Imported successfully
+2025-05-26 21:50:08,710:INFO:Starting cross validation
+2025-05-26 21:50:08,711:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:08,738:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,793:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,810:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:08,834:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,886:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,903:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:08,928:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,943:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:08,967:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:08,979:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:09,004:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:09,053:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:09,105:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:09,129:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:09,163:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/discriminant_analysis.py:935: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+
+2025-05-26 21:50:09,188:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:09,196:INFO:Calculating mean and std
+2025-05-26 21:50:09,196:INFO:Creating metrics dataframe
+2025-05-26 21:50:09,198:INFO:Uploading results into container
+2025-05-26 21:50:09,198:INFO:Uploading model into container now
+2025-05-26 21:50:09,199:INFO:_master_model_container: 8
+2025-05-26 21:50:09,199:INFO:_display_container: 2
+2025-05-26 21:50:09,199:INFO:QuadraticDiscriminantAnalysis(priors=None, reg_param=0.0,
+                              store_covariance=False, tol=0.0001)
+2025-05-26 21:50:09,199:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:09,284:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:09,284:INFO:Creating metrics dataframe
+2025-05-26 21:50:09,287:INFO:Initializing Ada Boost Classifier
+2025-05-26 21:50:09,287:INFO:Total runtime is 0.28691854874293016 minutes
+2025-05-26 21:50:09,287:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:09,287:INFO:Initializing create_model()
+2025-05-26 21:50:09,287:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=ada, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:09,287:INFO:Checking exceptions
+2025-05-26 21:50:09,287:INFO:Importing libraries
+2025-05-26 21:50:09,287:INFO:Copying training dataset
+2025-05-26 21:50:09,302:INFO:Defining folds
+2025-05-26 21:50:09,302:INFO:Declaring metric variables
+2025-05-26 21:50:09,302:INFO:Importing untrained model
+2025-05-26 21:50:09,303:INFO:Ada Boost Classifier Imported successfully
+2025-05-26 21:50:09,303:INFO:Starting cross validation
+2025-05-26 21:50:09,304:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:09,323:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:09,611:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:09,870:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:10,108:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:10,345:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:10,583:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:10,821:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:11,058:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:11,295:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:11,535:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:11,799:INFO:Calculating mean and std
+2025-05-26 21:50:11,799:INFO:Creating metrics dataframe
+2025-05-26 21:50:11,800:INFO:Uploading results into container
+2025-05-26 21:50:11,801:INFO:Uploading model into container now
+2025-05-26 21:50:11,801:INFO:_master_model_container: 9
+2025-05-26 21:50:11,801:INFO:_display_container: 2
+2025-05-26 21:50:11,801:INFO:AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42)
+2025-05-26 21:50:11,801:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:11,883:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:11,884:INFO:Creating metrics dataframe
+2025-05-26 21:50:11,886:INFO:Initializing Gradient Boosting Classifier
+2025-05-26 21:50:11,886:INFO:Total runtime is 0.33023635149002084 minutes
+2025-05-26 21:50:11,886:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:11,886:INFO:Initializing create_model()
+2025-05-26 21:50:11,886:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=gbc, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:11,886:INFO:Checking exceptions
+2025-05-26 21:50:11,886:INFO:Importing libraries
+2025-05-26 21:50:11,886:INFO:Copying training dataset
+2025-05-26 21:50:11,896:INFO:Defining folds
+2025-05-26 21:50:11,896:INFO:Declaring metric variables
+2025-05-26 21:50:11,896:INFO:Importing untrained model
+2025-05-26 21:50:11,897:INFO:Gradient Boosting Classifier Imported successfully
+2025-05-26 21:50:11,897:INFO:Starting cross validation
+2025-05-26 21:50:11,898:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:20,872:INFO:Calculating mean and std
+2025-05-26 21:50:20,873:INFO:Creating metrics dataframe
+2025-05-26 21:50:20,874:INFO:Uploading results into container
+2025-05-26 21:50:20,874:INFO:Uploading model into container now
+2025-05-26 21:50:20,874:INFO:_master_model_container: 10
+2025-05-26 21:50:20,874:INFO:_display_container: 2
+2025-05-26 21:50:20,875:INFO:GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=42, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)
+2025-05-26 21:50:20,875:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:20,957:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:20,957:INFO:Creating metrics dataframe
+2025-05-26 21:50:20,959:INFO:Initializing Linear Discriminant Analysis
+2025-05-26 21:50:20,959:INFO:Total runtime is 0.4814526995023093 minutes
+2025-05-26 21:50:20,959:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:20,959:INFO:Initializing create_model()
+2025-05-26 21:50:20,959:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=lda, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:20,959:INFO:Checking exceptions
+2025-05-26 21:50:20,959:INFO:Importing libraries
+2025-05-26 21:50:20,959:INFO:Copying training dataset
+2025-05-26 21:50:20,968:INFO:Defining folds
+2025-05-26 21:50:20,968:INFO:Declaring metric variables
+2025-05-26 21:50:20,968:INFO:Importing untrained model
+2025-05-26 21:50:20,968:INFO:Linear Discriminant Analysis Imported successfully
+2025-05-26 21:50:20,968:INFO:Starting cross validation
+2025-05-26 21:50:20,969:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:23,999:INFO:Calculating mean and std
+2025-05-26 21:50:24,000:INFO:Creating metrics dataframe
+2025-05-26 21:50:24,001:INFO:Uploading results into container
+2025-05-26 21:50:24,001:INFO:Uploading model into container now
+2025-05-26 21:50:24,002:INFO:_master_model_container: 11
+2025-05-26 21:50:24,002:INFO:_display_container: 2
+2025-05-26 21:50:24,002:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2025-05-26 21:50:24,002:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:24,117:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:24,138:INFO:Creating metrics dataframe
+2025-05-26 21:50:24,141:INFO:Initializing Extra Trees Classifier
+2025-05-26 21:50:24,141:INFO:Total runtime is 0.5344844659169516 minutes
+2025-05-26 21:50:24,141:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:24,141:INFO:Initializing create_model()
+2025-05-26 21:50:24,141:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=et, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:24,141:INFO:Checking exceptions
+2025-05-26 21:50:24,141:INFO:Importing libraries
+2025-05-26 21:50:24,141:INFO:Copying training dataset
+2025-05-26 21:50:24,181:INFO:Defining folds
+2025-05-26 21:50:24,181:INFO:Declaring metric variables
+2025-05-26 21:50:24,182:INFO:Importing untrained model
+2025-05-26 21:50:24,182:INFO:Extra Trees Classifier Imported successfully
+2025-05-26 21:50:24,182:INFO:Starting cross validation
+2025-05-26 21:50:24,183:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:26,041:INFO:Calculating mean and std
+2025-05-26 21:50:26,042:INFO:Creating metrics dataframe
+2025-05-26 21:50:26,043:INFO:Uploading results into container
+2025-05-26 21:50:26,044:INFO:Uploading model into container now
+2025-05-26 21:50:26,044:INFO:_master_model_container: 12
+2025-05-26 21:50:26,044:INFO:_display_container: 2
+2025-05-26 21:50:26,045:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='sqrt',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     monotonic_cst=None, n_estimators=100, n_jobs=-1,
+                     oob_score=False, random_state=42, verbose=0,
+                     warm_start=False)
+2025-05-26 21:50:26,045:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:26,135:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:26,135:INFO:Creating metrics dataframe
+2025-05-26 21:50:26,137:INFO:Initializing Light Gradient Boosting Machine
+2025-05-26 21:50:26,137:INFO:Total runtime is 0.5677655816078188 minutes
+2025-05-26 21:50:26,138:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:26,138:INFO:Initializing create_model()
+2025-05-26 21:50:26,138:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=lightgbm, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:26,138:INFO:Checking exceptions
+2025-05-26 21:50:26,138:INFO:Importing libraries
+2025-05-26 21:50:26,138:INFO:Copying training dataset
+2025-05-26 21:50:26,150:INFO:Defining folds
+2025-05-26 21:50:26,150:INFO:Declaring metric variables
+2025-05-26 21:50:26,150:INFO:Importing untrained model
+2025-05-26 21:50:26,150:INFO:Light Gradient Boosting Machine Imported successfully
+2025-05-26 21:50:26,151:INFO:Starting cross validation
+2025-05-26 21:50:26,151:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:26,182:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:26,183:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3252
+2025-05-26 21:50:26,185:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000901 seconds.
+2025-05-26 21:50:26,185:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:26,185:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:26,185:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:26,186:INFO:[LightGBM] [Info] Number of data points in the train set: 4429, number of used features: 41
+2025-05-26 21:50:26,187:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265748 -> initscore=-1.016301
+2025-05-26 21:50:26,187:INFO:[LightGBM] [Info] Start training from score -1.016301
+2025-05-26 21:50:26,857:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:26,858:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3252
+2025-05-26 21:50:26,859:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000564 seconds.
+2025-05-26 21:50:26,859:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:26,859:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:26,859:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:26,859:INFO:[LightGBM] [Info] Number of data points in the train set: 4429, number of used features: 41
+2025-05-26 21:50:26,859:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265748 -> initscore=-1.016301
+2025-05-26 21:50:26,859:INFO:[LightGBM] [Info] Start training from score -1.016301
+2025-05-26 21:50:27,451:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:27,452:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:27,452:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000519 seconds.
+2025-05-26 21:50:27,453:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:27,453:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:27,453:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:27,453:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:27,453:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:27,453:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:28,066:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:28,066:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:28,067:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000515 seconds.
+2025-05-26 21:50:28,067:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:28,067:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:28,067:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:28,068:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:28,068:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:28,068:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:28,621:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:28,621:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:28,622:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000505 seconds.
+2025-05-26 21:50:28,622:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:28,622:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:28,622:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:28,623:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:28,623:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:28,623:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:29,209:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:29,209:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:29,211:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000724 seconds.
+2025-05-26 21:50:29,211:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:29,211:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:29,211:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:29,211:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:29,211:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:29,211:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:29,885:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:29,886:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:29,887:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000520 seconds.
+2025-05-26 21:50:29,887:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:29,887:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:29,887:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:29,887:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:29,887:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:29,887:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:30,516:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:30,516:INFO:[LightGBM] [Info] Number of positive: 1177, number of negative: 3253
+2025-05-26 21:50:30,517:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000535 seconds.
+2025-05-26 21:50:30,517:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:30,517:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:30,517:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:30,517:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:30,518:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265688 -> initscore=-1.016609
+2025-05-26 21:50:30,518:INFO:[LightGBM] [Info] Start training from score -1.016609
+2025-05-26 21:50:31,105:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:31,106:INFO:[LightGBM] [Info] Number of positive: 1178, number of negative: 3252
+2025-05-26 21:50:31,107:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000547 seconds.
+2025-05-26 21:50:31,107:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:31,107:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:31,107:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:31,107:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:31,107:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265914 -> initscore=-1.015452
+2025-05-26 21:50:31,107:INFO:[LightGBM] [Info] Start training from score -1.015452
+2025-05-26 21:50:31,648:INFO:[LightGBM] [Warning] Found whitespace in feature_names, replace with underlines
+2025-05-26 21:50:31,648:INFO:[LightGBM] [Info] Number of positive: 1178, number of negative: 3252
+2025-05-26 21:50:31,649:INFO:[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000487 seconds.
+2025-05-26 21:50:31,649:INFO:You can set `force_row_wise=true` to remove the overhead.
+2025-05-26 21:50:31,649:INFO:And if memory is not enough, you can set `force_col_wise=true`.
+2025-05-26 21:50:31,649:INFO:[LightGBM] [Info] Total Bins 659
+2025-05-26 21:50:31,650:INFO:[LightGBM] [Info] Number of data points in the train set: 4430, number of used features: 41
+2025-05-26 21:50:31,650:INFO:[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.265914 -> initscore=-1.015452
+2025-05-26 21:50:31,650:INFO:[LightGBM] [Info] Start training from score -1.015452
+2025-05-26 21:50:32,259:INFO:Calculating mean and std
+2025-05-26 21:50:32,259:INFO:Creating metrics dataframe
+2025-05-26 21:50:32,260:INFO:Uploading results into container
+2025-05-26 21:50:32,261:INFO:Uploading model into container now
+2025-05-26 21:50:32,261:INFO:_master_model_container: 13
+2025-05-26 21:50:32,261:INFO:_display_container: 2
+2025-05-26 21:50:32,262:INFO:LGBMClassifier(boosting_type='gbdt', class_weight=None, colsample_bytree=1.0,
+               importance_type='split', learning_rate=0.1, max_depth=-1,
+               min_child_samples=20, min_child_weight=0.001, min_split_gain=0.0,
+               n_estimators=100, n_jobs=-1, num_leaves=31, objective=None,
+               random_state=42, reg_alpha=0.0, reg_lambda=0.0, subsample=1.0,
+               subsample_for_bin=200000, subsample_freq=0)
+2025-05-26 21:50:32,262:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:32,350:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:32,351:INFO:Creating metrics dataframe
+2025-05-26 21:50:32,352:INFO:Initializing Dummy Classifier
+2025-05-26 21:50:32,353:INFO:Total runtime is 0.6713494499524436 minutes
+2025-05-26 21:50:32,353:INFO:SubProcess create_model() called ==================================
+2025-05-26 21:50:32,353:INFO:Initializing create_model()
+2025-05-26 21:50:32,353:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=dummy, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x16f534610>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:32,353:INFO:Checking exceptions
+2025-05-26 21:50:32,353:INFO:Importing libraries
+2025-05-26 21:50:32,353:INFO:Copying training dataset
+2025-05-26 21:50:32,363:INFO:Defining folds
+2025-05-26 21:50:32,363:INFO:Declaring metric variables
+2025-05-26 21:50:32,363:INFO:Importing untrained model
+2025-05-26 21:50:32,363:INFO:Dummy Classifier Imported successfully
+2025-05-26 21:50:32,363:INFO:Starting cross validation
+2025-05-26 21:50:32,364:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2025-05-26 21:50:32,387:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,408:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,429:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,450:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,470:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,491:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,511:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,533:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,553:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,574:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2025-05-26 21:50:32,577:INFO:Calculating mean and std
+2025-05-26 21:50:32,578:INFO:Creating metrics dataframe
+2025-05-26 21:50:32,579:INFO:Uploading results into container
+2025-05-26 21:50:32,579:INFO:Uploading model into container now
+2025-05-26 21:50:32,579:INFO:_master_model_container: 14
+2025-05-26 21:50:32,579:INFO:_display_container: 2
+2025-05-26 21:50:32,580:INFO:DummyClassifier(constant=None, random_state=42, strategy='prior')
+2025-05-26 21:50:32,580:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:32,650:INFO:SubProcess create_model() end ==================================
+2025-05-26 21:50:32,650:INFO:Creating metrics dataframe
+2025-05-26 21:50:32,654:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/pycaret/internal/pycaret_experiment/supervised_experiment.py:323: FutureWarning: Styler.applymap has been deprecated. Use Styler.map instead.
+  master_display_.apply(
+
+2025-05-26 21:50:32,655:INFO:Initializing create_model()
+2025-05-26 21:50:32,655:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42), fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:32,655:INFO:Checking exceptions
+2025-05-26 21:50:32,656:INFO:Importing libraries
+2025-05-26 21:50:32,656:INFO:Copying training dataset
+2025-05-26 21:50:32,666:INFO:Defining folds
+2025-05-26 21:50:32,666:INFO:Declaring metric variables
+2025-05-26 21:50:32,666:INFO:Importing untrained model
+2025-05-26 21:50:32,666:INFO:Declaring custom model
+2025-05-26 21:50:32,666:INFO:Ada Boost Classifier Imported successfully
+2025-05-26 21:50:32,667:INFO:Cross validation set to False
+2025-05-26 21:50:32,667:INFO:Fitting Model
+2025-05-26 21:50:32,676:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:32,943:INFO:AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42)
+2025-05-26 21:50:32,943:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:33,012:INFO:_master_model_container: 14
+2025-05-26 21:50:33,012:INFO:_display_container: 2
+2025-05-26 21:50:33,012:INFO:AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42)
+2025-05-26 21:50:33,012:INFO:compare_models() successfully completed......................................
+2025-05-26 21:50:33,012:INFO:Initializing finalize_model()
+2025-05-26 21:50:33,012:INFO:finalize_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2025-05-26 21:50:33,012:INFO:Finalizing AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42)
+2025-05-26 21:50:33,017:INFO:Initializing create_model()
+2025-05-26 21:50:33,017:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x123bbbd30>, estimator=AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=42), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, error_score=0.0, kwargs={})
+2025-05-26 21:50:33,017:INFO:Checking exceptions
+2025-05-26 21:50:33,018:INFO:Importing libraries
+2025-05-26 21:50:33,018:INFO:Copying training dataset
+2025-05-26 21:50:33,018:INFO:Defining folds
+2025-05-26 21:50:33,018:INFO:Declaring metric variables
+2025-05-26 21:50:33,019:INFO:Importing untrained model
+2025-05-26 21:50:33,019:INFO:Declaring custom model
+2025-05-26 21:50:33,019:INFO:Ada Boost Classifier Imported successfully
+2025-05-26 21:50:33,019:INFO:Cross validation set to False
+2025-05-26 21:50:33,019:INFO:Fitting Model
+2025-05-26 21:50:33,028:WARNING:/Users/apoorvthite/Desktop/ChurnPredictor/churn-pycaret-310/lib/python3.10/site-packages/sklearn/ensemble/_weight_boosting.py:519: FutureWarning: The SAMME.R algorithm (the default) is deprecated and will be removed in 1.6. Use the SAMME algorithm to circumvent this warning.
+  warnings.warn(
+
+2025-05-26 21:50:33,378:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineS...
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+'))),
+                ('actual_estimator',
+                 AdaBoostClassifier(algorithm='SAMME.R', estimator=None,
+                                    learning_rate=1.0, n_estimators=50,
+                                    random_state=42))],
+         verbose=False)
+2025-05-26 21:50:33,378:INFO:create_model() successfully completed......................................
+2025-05-26 21:50:33,446:INFO:_master_model_container: 14
+2025-05-26 21:50:33,446:INFO:_display_container: 2
+2025-05-26 21:50:33,450:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineS...
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+'))),
+                ('actual_estimator',
+                 AdaBoostClassifier(algorithm='SAMME.R', estimator=None,
+                                    learning_rate=1.0, n_estimators=50,
+                                    random_state=42))],
+         verbose=False)
+2025-05-26 21:50:33,450:INFO:finalize_model() successfully completed......................................
+2025-05-26 21:50:33,515:INFO:Initializing save_model()
+2025-05-26 21:50:33,515:INFO:save_model(model=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineS...
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+'))),
+                ('actual_estimator',
+                 AdaBoostClassifier(algorithm='SAMME.R', estimator=None,
+                                    learning_rate=1.0, n_estimators=50,
+                                    random_state=42))],
+         verbose=False), model_name=models/churn_model, prep_pipe_=Pipeline(memory=FastMemory(location=/var/folders/84/1x9rxtvj1jxf68pqwqm084mm0000gn/T/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'In...
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=[],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+')))],
+         verbose=False), verbose=True, use_case=MLUsecase.CLASSIFICATION, kwargs={})
+2025-05-26 21:50:33,515:INFO:Adding model into prep_pipe
+2025-05-26 21:50:33,515:WARNING:Only Model saved as it was a pipeline.
+2025-05-26 21:50:33,534:INFO:models/churn_model.pkl saved in current working directory
+2025-05-26 21:50:33,538:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineS...
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=CleanColumnNames(match='[\\]\\[\\,\\{\\}\\"\\:]+'))),
+                ('actual_estimator',
+                 AdaBoostClassifier(algorithm='SAMME.R', estimator=None,
+                                    learning_rate=1.0, n_estimators=50,
+                                    random_state=42))],
+         verbose=False)
+2025-05-26 21:50:33,538:INFO:save_model() successfully completed......................................
+2025-05-26 21:51:28,799:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:51:28,800:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:51:28,800:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:51:28,800:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:51:29,317:INFO:Initializing load_model()
+2025-05-26 21:51:29,317:INFO:load_model(model_name=models/churn_model, platform=None, authentication=None, verbose=True)
+2025-05-26 21:52:15,637:INFO:Initializing predict_model()
+2025-05-26 21:52:15,638:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1669d53c0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x166a3fb50>)
+2025-05-26 21:52:15,638:INFO:Checking exceptions
+2025-05-26 21:52:15,638:INFO:Preloading libraries
+2025-05-26 21:52:15,642:INFO:Set up data.
+2025-05-26 21:52:15,652:INFO:Set up index.
+2025-05-26 21:59:20,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:59:20,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:59:20,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:59:20,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 21:59:20,600:INFO:Initializing load_model()
+2025-05-26 21:59:20,601:INFO:load_model(model_name=models/churn_model, platform=None, authentication=None, verbose=True)
+2025-05-26 21:59:46,364:INFO:Initializing predict_model()
+2025-05-26 21:59:46,364:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x167d7f400>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x167d4f9a0>)
+2025-05-26 21:59:46,364:INFO:Checking exceptions
+2025-05-26 21:59:46,364:INFO:Preloading libraries
+2025-05-26 21:59:46,365:INFO:Set up data.
+2025-05-26 21:59:46,379:INFO:Set up index.
+2025-05-26 22:01:11,532:INFO:Initializing predict_model()
+2025-05-26 22:01:11,534:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x166cc6e00>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x167d4e830>)
+2025-05-26 22:01:11,534:INFO:Checking exceptions
+2025-05-26 22:01:11,534:INFO:Preloading libraries
+2025-05-26 22:01:11,534:INFO:Set up data.
+2025-05-26 22:01:11,552:INFO:Set up index.
+2025-05-26 22:03:19,662:INFO:Initializing predict_model()
+2025-05-26 22:03:19,670:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x167a5de70>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x1685f1e10>)
+2025-05-26 22:03:19,670:INFO:Checking exceptions
+2025-05-26 22:03:19,670:INFO:Preloading libraries
+2025-05-26 22:03:19,676:INFO:Set up data.
+2025-05-26 22:03:19,715:INFO:Set up index.
+2025-05-26 22:06:11,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:06:11,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:06:11,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:06:11,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:06:11,697:INFO:Initializing load_model()
+2025-05-26 22:06:11,697:INFO:load_model(model_name=models/churn_model, platform=None, authentication=None, verbose=True)
+2025-05-26 22:06:33,027:INFO:Initializing predict_model()
+2025-05-26 22:06:33,028:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x1777dc790>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17aecd2d0>)
+2025-05-26 22:06:33,028:INFO:Checking exceptions
+2025-05-26 22:06:33,028:INFO:Preloading libraries
+2025-05-26 22:06:33,029:INFO:Set up data.
+2025-05-26 22:06:33,049:INFO:Set up index.
+2025-05-26 22:08:38,138:INFO:Initializing predict_model()
+2025-05-26 22:08:38,139:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x17a52abf0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17c14edd0>)
+2025-05-26 22:08:38,139:INFO:Checking exceptions
+2025-05-26 22:08:38,139:INFO:Preloading libraries
+2025-05-26 22:08:38,140:INFO:Set up data.
+2025-05-26 22:08:38,157:INFO:Set up index.
+2025-05-26 22:12:34,319:INFO:Initializing predict_model()
+2025-05-26 22:12:34,321:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x17a528490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17c3c6a70>)
+2025-05-26 22:12:34,321:INFO:Checking exceptions
+2025-05-26 22:12:34,321:INFO:Preloading libraries
+2025-05-26 22:12:34,323:INFO:Set up data.
+2025-05-26 22:12:34,339:INFO:Set up index.
+2025-05-26 22:17:44,881:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:17:44,881:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:17:44,881:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:17:44,881:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-26 22:17:45,422:INFO:Initializing load_model()
+2025-05-26 22:17:45,422:INFO:load_model(model_name=models/churn_model, platform=None, authentication=None, verbose=True)
+2025-05-26 22:18:08,996:INFO:Initializing predict_model()
+2025-05-26 22:18:08,997:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x165d90190>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['gender_Female', 'gender_Male',
+                                             'SeniorCitizen', 'Partner',
+                                             'Dependents', 'tenure',
+                                             'PhoneService', 'MultipleLines_No',
+                                             'MultipleLines_No phone service',
+                                             'MultipleLines_Yes',
+                                             'InternetService_DSL',
+                                             'InternetService_Fiber optic',
+                                             'InternetService_No',
+                                             'OnlineSecurity_No',
+                                             '...
+                                             'StreamingTV_Yes',
+                                             'StreamingMovies_No',
+                                             'StreamingMovies_No internet '
+                                             'service', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', AdaBoostClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x165fb56c0>)
+2025-05-26 22:18:08,997:INFO:Checking exceptions
+2025-05-26 22:18:08,997:INFO:Preloading libraries
+2025-05-26 22:18:08,998:INFO:Set up data.
+2025-05-26 22:18:09,018:INFO:Set up index.
+2025-05-27 16:07:40,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-27 16:07:40,552:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-27 16:07:40,553:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-27 16:07:40,553:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.

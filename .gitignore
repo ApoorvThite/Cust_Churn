@@ -18,3 +18,7 @@ __pycache__/
 
 # Environment files
 .env
+Desktop/ChurnPredictor/
+churn-pycaret-310/
+__pycache__/
+*.pyc
