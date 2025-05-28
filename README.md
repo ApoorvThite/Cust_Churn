@@ -99,11 +99,12 @@ Visit: http://127.0.0.1:7860 (or similar) to use the app.
 -----------------------------------------------------------
 📈 Model Performance
 
-Metric	Top Model (AdaBoost Classifier)
-Accuracy	80.78%
-AUC	0.8484
-Recall	55.58%
-F1 Score	0.6062
+| Metric	|  Top Model (AdaBoost Classifier)
+-------------------------------------------
+Accuracy  |            	80.78%
+AUC	      |             0.8484
+Recall	  |             55.58%
+F1 Score	|             0.6062
 
 -------------------------------------------------------------
 
